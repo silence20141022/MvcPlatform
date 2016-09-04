@@ -10,10 +10,7 @@ using System.Web.Mvc;
 namespace MvcPlatform.Controllers
 {
     public class OrderAirOutController : Controller
-    {
-        //
-        // GET: /OrderAirOut/
-
+    { 
         public ActionResult Index()
         {
             return View();
@@ -174,7 +171,5 @@ namespace MvcPlatform.Controllers
                 return "{success:false}";
             }
         }  
-
-
     }
 }

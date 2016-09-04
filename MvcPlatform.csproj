@@ -321,7 +321,6 @@
     <Content Include="js\Extjs42\ux\extjs-ux-master\ux\form\field\tinymce\plugins\spellchecker\config.php" />
     <Content Include="js\Extjs42\ux\extjs-ux-master\ux\form\field\tinymce\plugins\spellchecker\includes\general.php" />
     <Content Include="js\Extjs42\ux\extjs-ux-master\ux\form\field\tinymce\plugins\spellchecker\rpc.php" />
-    <Content Include="App_Browsers\IE.browser" />
     <Content Include="css\font-awesome\css\font-awesome.css.map" />
     <Content Include="css\font-awesome\fonts\fontawesome-webfont.eot" />
     <Content Include="css\font-awesome\fonts\fontawesome-webfont.ttf" />
