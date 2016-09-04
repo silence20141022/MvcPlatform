@@ -10,10 +10,7 @@ using System.Web.Mvc;
 namespace MvcPlatform.Controllers
 {
     public class OrderAirInController : Controller
-    {
-        //
-        // GET: /OrderAirIn/
-
+    { 
         public ActionResult Index()
         {
             return View();
@@ -161,6 +158,5 @@ namespace MvcPlatform.Controllers
                 return "{success:false}";
             }
         }
-
     }
 }
